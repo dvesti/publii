@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "publii",
+    "description": "",
+    "home_page_url": "https://dvesti.github.io/publii",
+    "feed_url": "https://dvesti.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Antuan"
+    },
+    "items": [
+        {
+            "id": "https://dvesti.github.io/publii/privetstvie-iz-2020-go-goda.html",
+            "url": "https://dvesti.github.io/publii/privetstvie-iz-2020-go-goda.html",
+            "title": "Приветствие из 2020-го года!",
+            "content_html": "<strong>Всем</strong> привет!",
+            "author": {
+                "name": "Antuan"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-21T20:02:19+03:00",
+            "date_modified": "2020-05-21T20:02:19+03:00"
+        }
+    ]
+}
